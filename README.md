@@ -1,7 +1,7 @@
 # Burmese-Topic-Modeling
 Burmese Topic Modeling with BERTopic
 
-This repository contains a Python notebook file for training Burmese topic modeling using BERTopic. BERTopic is an open-source topic modeling technique that leverages the power of BERT embeddings to identify and cluster topics in a given text corpus.
+This repository contains a Python notebook file for training Burmese topic modeling using BERTopic. BERTopic is an open-source topic modeling technique that leverages the power of BERT embeddings to identify and cluster topics in a given text corpus. Accompanying the Python notebook is a dataset containing 30,000 word-break sentences in the Burmese language. This dataset serves as the input corpus for the topic modeling process.
 
 ## Getting Started
 To get started with the Burmese topic modeling project, follow the steps below:
