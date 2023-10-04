@@ -8,7 +8,7 @@ To get started with the Burmese topic modeling project, follow the steps below:
 
 1. Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/your-username/Burmese-Topic-Modeling.git
+git clone https://github.com/hmp-08/Burmese-Topic-Modeling.git
 ``` 
 2.  Open the Jupyter Notebook file (burmese_topic_modeling.ipynb) in Jupyter Notebook or JupyterLab. This notebook contains the code for training the Burmese topic modeling using BERTopic.
 
